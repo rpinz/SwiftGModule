@@ -24,6 +24,6 @@ let package = Package(
             dependencies: ["GModule"])
     ],
     swiftLanguageVersions: [
-        .v4_2
+        .v5
     ]
 )
